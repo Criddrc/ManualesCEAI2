@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplicativos</title>
+    <link rel="stylesheet" href="aplicativos/css/estilos.css">
+</head>
+<body>
+    <div class="contenedor1">
+        <!-- <div class="banner1">
+            <img src="/logo_ceai.png" alt="logo" width="50%">
+        </div> -->
+        <div class="menu1">
+            <div class="reloj">
+                <div class="date">
+                    <span id="weekDay"></span>,
+                    <span id="day"></span> de
+                    <span id="month"></span> del
+                    <span id="year"></span>
+                </div>
+                <div class="clock">
+                    <div class="cubo">
+                        <span id="hours" class="hours"></span>
+                    </div>
+                    <span class="hours">:</span>
+                    <div class="cubo">
+                        <span id="minutes" class="minutes"></span>
+                    </div>
+                    <span class="hours">:</span>
+                    <div class="cubo">
+                        <span id="seconds" class="seconds"></span>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <br> <br><br>  
+            <div>
+                
+                <h1>Manuales Aplicativos<br>Centro de Electricidad y Automatización Industrial - CEAI</h1>
+            </div>
+            <div class="container1">
+                <!-- <div class="card1" onclick="redirigir('https://appsceai.com/Saf/usuarios/login')"> -->
+                <div class="card1" onclick="redirigir('SAF/crearplan')">
+                    <h3 class="title1">SAF</h3>
+                    <div class="bar1">
+                        <div class="emptybar1"></div>
+                        <div class="filledbar1"></div>
+                    </div>
+                    <div class="circle1">
+                        <svg style="background-image: url('aplicativos/images/SAF.ico');" version="1.1"
+                            xmlns="http://www.w3.org/2000/svg">
+                        </svg>
+                    </div>
+                </div>
+                <div class="card1" onclick="redirigir('SEGEP/cargar_F023_instructor')">
+                    <h3 class="title1">SEGEP</h3>
+                    <div class="bar1">
+                        <div class="emptybar1"></div>
+                        <div class="filledbar1"></div>
+                    </div>
+                    <div class="circle1">
+                        <svg style="background-image: url('aplicativos/images/SEGEP2.png');" version="1.1"
+                            xmlns="http://www.w3.org/2000/svg">
+                        </svg>
+                    </div>
+                </div>
+                <div class="card1">
+                    <h3 class="title1">SACER</h3>
+                    <div class="bar1">
+                        <div class="emptybar1"></div>
+                        <div class="filledbar1"></div>
+                    </div>
+                    <div class="circle1">
+                        <svg style="background-image: url('aplicativos/images/SACER.png');" version="1.1" n
+                            xmlns="http://www.w3.org/2000/svg">
+                        </svg>
+                    </div>
+                </div>
+                <div class="card1">
+                    <h3 class="title1">SICAF</h3>
+                    <div class="bar1">
+                        <div class="emptybar1"></div>
+                        <div class="filledbar1"></div>
+                    </div>
+                    <div class="circle1">
+                        <svg style="background-image: url('aplicativos/images/SICAF.png');" version="1.1"
+                            xmlns="http://www.w3.org/2000/svg">
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="container1">
+                <div class="card1" onclick="redirigir('/sacer')">
+                    <h3 class="title1">SACER</h3>
+                    <div class="bar1">
+                        <div class="emptybar1"></div>
+                        <div class="filledbar1"></div>
+                    </div>
+                    <div class="circle1">
+                        <svg style="background-image: url('../../sacer/public/plugins/theme-assets/images/logo/GHA.png');" version="1.1" n
+                            xmlns="http://www.w3.org/2000/svg">
+                        </svg>
+                    </div>
+                </div>
+                <div class="card1" onclick="redirigir('/sas/public')">
+                    <h3 class="title1">SAS</h3>
+                    <div class="bar1">
+                        <div class="emptybar1"></div>
+                        <div class="filledbar1"></div>
+                    </div>
+                    <div class="circle1">
+                        <svg style="background-image: url('../../sas/public/plugins/theme-assets/images/logo/logologin.png');"
+                            version="1.1" xmlns="http://www.w3.org/2000/svg">
+                        </svg>
+                    </div>
+                </div>
+                <div class="card1" onclick="redirigir('/wskills')">
+                    <h3 class="title1">World Skills</h3>
+                    <div class="bar1">
+                        <div class="emptybar1"></div>
+                        <div class="filledbar1"></div>
+                    </div>
+                    <div class="circle1">
+                        <svg style="background-image: url('../../proyectos/wskills/public/img/logo_menu2.png');" version="1.1"
+                            xmlns="http://www.w3.org/2000/svg">
+                        </svg>
+                    </div>
+                </div>
+                <div class="card1" onclick="redirigir('/Gclf')">
+                    <h3 class="title1">GCLF</h3>
+                    <div class="bar1">
+                        <div class="emptybar1"></div>
+                        <div class="filledbar1"></div>
+                    </div>
+                    <div class="circle1">
+                        <svg style="background-image: url('../../Gclf/public/img/logo.png');background-size: 7.3rem 8.5rem;margin-top: -1rem;"
+                            version="1.1" xmlns="http://www.w3.org/2000/svg">
+                        </svg>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
+    
+    <script src="aplicativos/js/funciones.js"></script>
+    <script>
+        function redirigir(ruta){
+            var redirectWindow = window.open(ruta, '_blank');
+            redirectWindow.location;
+        }
+    </script>
+</body>
+</html>
+
+

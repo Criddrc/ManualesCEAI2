@@ -1,0 +1,30 @@
+.md-typeset {
+    /* color-adjust: exact; */
+    font-size: .73rem;
+    line-height: 1.6;
+    overflow-wrap: break-word;
+}
+
+.glightbox img{
+    border: 2px solid rgb(101 147 104);
+}
+
+.numeros {
+  display: block;
+  background-color: #0022ff80;
+  width: 82px;
+  color: white !important;
+  font-weight: bold;
+  font-synthesis-style: none;
+  border-radius: 5px;
+  pointer-events: none;
+  text-decoration: none;
+  font-size: 12pt;
+  height: 21px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+h1,h2,h3,h4,h5,h6{
+    display: block ruby;
+}

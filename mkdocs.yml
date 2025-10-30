@@ -1,0 +1,80 @@
+INHERIT: menu.yml
+site_name: Documentación aplicativos CEAI
+site_url: https://appsceai.com/ManualesCEAI/
+# site_url: http://localhost
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+  language: es
+  font:
+    text: Roboto
+  features:
+    - navigation.tracking
+    - navigation.path
+    - navigation.prune
+    - navigation.top
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.follow
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+plugins:
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: es
+          default: true
+          name: Spanish
+          build: true
+  - glightbox:
+      draggable: false
+  - site-urls
+  - encryptcontent:
+      password_button: True
+      password_file: 'passwords.yml'
+      translations:
+          es:
+            summary: 'Este contenido está protegido con cifrado'
+            placeholder_user: 'Rol'
+            placeholder: 'Contraseña'
+            decryption_failure_message: 'Credenciales no válidas'
+            password_button_text: 'ACEPTAR'
+            encryption_info_message: 'Para acceder a esta página, ingrese las credenciales del rol con permisos de lectura.'
+extra_css:
+  - stylesheets/extra.css
+copyright: Copyright &copy; 2025 - SENA
+
+# --------------------------------------------------------------------
+# barra de navegacion personalizada
+# --------------------------------------------------------------------
+nav:
+  - Inicio: index.html
+  - SAF:
+    #- Novedades:
+      #- Deserción: SAF/desercion.md
+      #- Cargar Recurso: SAF/cargarrecurso.md
+      #- Cargar evidencias Deserción: SAF/cargarevidenciadesercionaprendiz.md
+      # - Diana: SAF/hola diana.md
+      # - Diana 2: SAF/hola diana copy.md
+    - Plan de Mejoramiento:
+      - Crear Plan: SAF/crearplan.md
+      - Crear actividades: SAF/crearactividadesplan.md
+      - Asociar aprendices: SAF/asociaraprendicesplan.md
+      - Calificar plan: SAF/calificarplan.md
+      - Culminar plan: SAF/culminarplan.md
+  - SEGEP: 
+    - Cargar F023 rol instructor: SEGEP/cargar_F023_instructor.md

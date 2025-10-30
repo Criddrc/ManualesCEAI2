@@ -1,0 +1,10 @@
+# --------------------------------------------------------------------
+# barra de navegacion personalizada
+# --------------------------------------------------------------------
+# nav:
+#   - Inicio: index.md
+#   - SAF:
+#     - Novedades:
+#       - SAF/cargarrecurso.md
+#       - SAF/desercion.md
+#       - Diana: SAF/hola diana.md

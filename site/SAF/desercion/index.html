@@ -1,0 +1,754 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://appsceai.com/ManualesCEAI/SAF/desercion/">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+    
+    
+      
+        <title>Desercion - Documentación aplicativos CEAI</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#-" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../.." title="Documentación aplicativos CEAI" class="md-header__button md-logo" aria-label="Documentación aplicativos CEAI" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Documentación aplicativos CEAI
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Desercion
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Cambiar a modo oscuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Cambiar a modo oscuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Cambiar a modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Cambiar a modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Pestañas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Inicio
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../crearplan/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  SAF
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../SEGEP/cargar_F023_instructor/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  SEGEP
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Documentación aplicativos CEAI" class="md-nav__button md-logo" aria-label="Documentación aplicativos CEAI" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Documentación aplicativos CEAI
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Inicio
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    
+  
+  
+  
+    <a href="../crearplan/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    SAF
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../SEGEP/cargar_F023_instructor/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    SEGEP
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#-" class="md-nav__link">
+    <span class="md-ellipsis">
+      ---
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#novedad-desercion-de-aprendices" class="md-nav__link">
+    <span class="md-ellipsis">
+      NOVEDAD DESERCIÓN DE APRENDICES
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="NOVEDAD DESERCIÓN DE APRENDICES">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-registrar-solicitud-de-cancelacion-por-desercion-instructor" class="md-nav__link">
+    <span class="md-ellipsis">
+      1️⃣ Registrar Solicitud de Cancelación por Deserción (Instructor)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-consultar-novedad-apoyo-a-coordinacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      2️⃣ Consultar novedad (Apoyo a coordinación)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-aceptar-o-rechazar-la-novedad-apoyo-a-coordinacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      3️⃣ Aceptar o rechazar la novedad (Apoyo a coordinación)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-aprobar-la-novedad-desde-coordinacion-academica-coordinador-academico" class="md-nav__link">
+    <span class="md-ellipsis">
+      4️⃣ Aprobar la novedad desde Coordinación Académica (Coordinador Académico)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-aprobar-la-novedad-desde-coordinacion-de-formacion-coordinador-de-formacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      5️⃣ Aprobar la novedad desde Coordinación de Formación (Coordinador de Formación)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-notificacion-al-aprendiz-apoyo-a-coordinacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      6️⃣ Notificación al aprendiz (Apoyo a coordinación)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7-revisar-soportes-de-incumplimiento-coordinador-academico" class="md-nav__link">
+    <span class="md-ellipsis">
+      7️⃣ Revisar soportes de incumplimiento (Coordinador académico)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#8-completar-informacion-de-la-novedad-apoyo-a-coordinacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      8️⃣ Completar información de la novedad (Apoyo a coordinación)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#9-cargar-recurso-de-reposicion-apoyo-a-coordinacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      9️⃣ Cargar recurso de reposición (Apoyo a coordinación)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pasar-novedad-a-pendiente-sofia" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔟 Pasar novedad a Pendiente SOFIA
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#11-finalizar-novedad" class="md-nav__link">
+    <span class="md-ellipsis">
+      1️⃣1️⃣ Finalizar novedad
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h2 id="-">---</h2>
+<h1 id="novedad-desercion-de-aprendices">NOVEDAD DESERCIÓN DE APRENDICES</h1>
+<p>El siguiente es el protocolo que se debe seguir para registrar una novedad de cancelación por deserción en el aplicativo SAF. Intervienen los siguientes roles: Instructor, Apoyo Coordinación, Coordinación Académica, Coordinación de Formación y Aprendiz</p>
+<h2 id="1-registrar-solicitud-de-cancelacion-por-desercion-instructor">1️⃣ Registrar Solicitud de Cancelación por Deserción (Instructor)</h2>
+<p>El instructor ingresa al listado de aprendices y activa la opción <strong>"Solicitar cancelación"</strong>. SAF valida que el aprendiz tenga <strong>3</strong> días consecutivos de faltas. Si no es así, el instructor podrá continuar con la novedad registrando el rango de fechas de inasistencia del aprendiz. El aprendiz queda resaltado con color azul y la novedad inicia con estado <strong>"Solicitada"</strong>.</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/1-desercion_registro_instructor_1.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/1-desercion_registro_instructor_1.png" /></a>
+</figure>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/2-desercion_registro_instructor_2.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/2-desercion_registro_instructor_2.png" /></a>
+</figure>
+<h2 id="2-consultar-novedad-apoyo-a-coordinacion">2️⃣ Consultar novedad (Apoyo a coordinación)</h2>
+<p>El apoyo a coordinación ingresa al módulo de novedades y consulta la novedad registrada usando los filtros disponibles: </p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/3-novedades_filtros.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/3-novedades_filtros.png" /></a>
+</figure>
+<p>Cuando el sistema devuelva el resultado de la consulta, el usuario (coordinadores, apoyo a coordinación o administrador) tiene las siguientes opciones para la novedad del aprendiz: ver los detalles de la novedad, cancelar la novedad, editar la novedad o reiniciar la novedad.</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/4-novedades_opciones.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/4-novedades_opciones.png" /></a>
+</figure>
+<p><strong>Opciones:</strong></p>
+<ul>
+<li><strong>Ver detalles de la novedad</strong>: El usuario puede visualizar la información relacionada con la novedad haciendo clic en el ícono de la lupa "<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/5.x/svgs/solid/search.svg" class="off-glb" width="15px">".</li>
+</ul>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/5-novedades_detalle.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/5-novedades_detalle.png" /></a>
+</figure>
+<ul>
+<li><strong>Editar la novedad</strong>: Se usa para registrar un paso dentro del proceso de la novedad que cambiará el estado de la misma. El usuario debe hacer clic en el ícono del lapiz "<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/5.x/svgs/solid/edit.svg" class="off-glb" width="15px">" y SAF habilita un formulario de edición de la novedad.</li>
+</ul>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/6-novedades_editar.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/6-novedades_editar.png" /></a>
+</figure>
+<ul>
+<li><strong>Cancelar la novedad</strong>: Se usa para cancelar una novedad que no debe continuar por solicitud del coordinador académico o del instructor que registró la solicitud. El apoyo a coordinación o administrador deben hacer clic en el ícono de la equis "<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/5.x/svgs/solid/times.svg" class="off-glb" width="11px">".</li>
+</ul>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/7-novedades_cancelar.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/7-novedades_cancelar.png" /></a>
+</figure>
+<h2 id="3-aceptar-o-rechazar-la-novedad-apoyo-a-coordinacion">3️⃣ Aceptar o rechazar la novedad (Apoyo a coordinación)</h2>
+<p>El apoyo a coordinación selecciona en el campo <strong>"Aprobar Solicitud"</strong> la opción <strong>Aprobar</strong> o <strong>Rechazar</strong> según el protocolo. Para completar la acción debe hacer clic en el botón "Registrar". Si desea puede usar el campo "Observaciones" para completar la información.</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/8-desercion_aprobar_solicitud.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/8-desercion_aprobar_solicitud.png" /></a>
+</figure>
+<ul>
+<li>Si aprueba la novedad, el estado cambia a <strong>"En trámite"</strong>.</li>
+<li>Si la novedad es rechazada, cambia a <strong>"Cancelada"</strong> y termina el proceso.</li>
+</ul>
+<h2 id="4-aprobar-la-novedad-desde-coordinacion-academica-coordinador-academico">4️⃣ Aprobar la novedad desde Coordinación Académica (Coordinador Académico)</h2>
+<p>El coordinador debe ingresar por la opción <strong>"Gestión de Novedades -&gt; Novedades de Aprendices"</strong>. En esta vista, el coordinador selecciona <strong>"Firmar deserciones coordinador académico"</strong> usando el filtro <strong>"Momento de la Novedad"</strong> (además puede hacer uso del resto de filtros en caso de necesitar realizar una consulta más precisa).</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/9-desercion_filtro_firmar_academico.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/9-desercion_filtro_firmar_academico.png" /></a>
+</figure>
+<p>Una vez ajustados los filtros, se debe hacer clic en el botón <strong>"Consultar"</strong>. Esto mostrará las novedades que cumplan con los filtros. El coordinador debe seleccionar si aprueba o rechaza la novedad usando las casillas <strong>"Aprobar Coordinador Académico"</strong> o <strong>"Rechazar Coordinador Académico"</strong>.</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/10-desercion_firmar_academico.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/10-desercion_firmar_academico.png" /></a>
+</figure>
+<p>Después de seleccionar las novedades a aprobar/rechazar se debe hacer clic en el botón <strong>"guardar"</strong>. La novedad cambiará a uno de los siguientes estados:
+- <strong>Aprobada coordinador académico</strong>: Si el coordinador académico aprueba la novedad, pero aún falta la aprobación del <strong>coordinador de formación</strong>.
+- <strong>Novedad cancelada</strong>: Si el coordinador rechaza la novedad.
+- <strong>Aprobada coordinación</strong>: Si tanto el coordinador académico como el de formación han aprobado la novedad.</p>
+<h2 id="5-aprobar-la-novedad-desde-coordinacion-de-formacion-coordinador-de-formacion">5️⃣ Aprobar la novedad desde Coordinación de Formación (Coordinador de Formación)</h2>
+<p>El coordinador debe ingresar por la opción <strong>"Gestión de Novedades -&gt; Novedades de Aprendices"</strong>. En esta vista, selecciona <strong>"Firmar deserciones coordinador formación"</strong> usando el filtro <strong>"Momento de la Novedad"</strong> (además puede usar el resto de filtros para realizar consultas más precisas).</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/11-desercion_filtro_firmar_formacion.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/11-desercion_filtro_firmar_formacion.png" /></a>
+</figure>
+<p>Una vez ajustados los filtros, se debe hacer clic en el botón <strong>"Consultar"</strong>. En los resultados mostrados, el coordinador debe seleccionar si aprueba o rechaza la novedad usando las casillas <strong>"Aprobar Coordinador Formación"</strong> o <strong>"Rechazar Coordinador Formación"</strong>.</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/12-desercion_firmar_formacion.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/12-desercion_firmar_formacion.png" /></a>
+</figure>
+<p>Después de seleccionar las novedades a aprobar/rechazar se debe hacer clic en el botón <strong>"guardar"</strong>.La novedad pasará a uno de los siguientes estados:
+- <strong>Aprobada coordinador formación</strong>: Si el coordinador formación aprueba la novedad, pero aún falta la aprobación del <strong>coordinador académico</strong>.
+- <strong>Novedad cancelada</strong>: Si el coordinador rechaza la novedad.
+- <strong>Aprobada coordinación</strong>: Si ambos coordinadores aprueban la novedad.</p>
+<h2 id="6-notificacion-al-aprendiz-apoyo-a-coordinacion">6️⃣ Notificación al aprendiz (Apoyo a coordinación)</h2>
+<p>Una vez la novedad se encuentra en estado <strong>"Aprobada coordinación"</strong>, el apoyo debe notificar al aprendiz solicitándole la entrega de evidencias que soporten la deserción. Esto se realiza mediante el envío de la carta <strong>"Solicitud Soportes Incumplimientos"</strong>. Para esto ingresa a consultar la ficha desde el menú de Formación - Cursos Titulada y hace clic en la opción "Descargar carta novedad" para el aprendiz respectivo. El apoyo puede descargar varias cartas de forma masiva seleccionando los aprendices.</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/13-descargar_carta_evidencias.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/13-descargar_carta_evidencias.png" /></a>
+</figure>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/14-desercion_notificacion_solicitud_evidencias.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/14-desercion_notificacion_solicitud_evidencias.png" /></a>
+</figure>
+<p>Cuando el apoyo notifica al aprendiz debe registrar en SAF esta acción para que el sistema inicie el conteo respectivo. El aprendiz cuenta con 5 días hábiles para entregar los soportes. De lo contrario, la novedad pasará automáticamente al estado <strong>"Evidencias no presentadas"</strong>.</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/15-estado_aprendiz_notificado.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/15-estado_aprendiz_notificado.png" /></a>
+</figure>
+<h2 id="7-revisar-soportes-de-incumplimiento-coordinador-academico">7️⃣ Revisar soportes de incumplimiento (Coordinador académico)</h2>
+<p>Si el aprendiz presenta los soportes, el coordinador debe ingresar por la opción <strong>"Gestión de Novedades -&gt; Novedades de Aprendices"</strong>. En esta vista, selecciona <strong>"Revisar evidencias deserción"</strong> usando el filtro <strong>"Momento de la Novedad"</strong>.</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/16-desercion_filtro_revisar_evidencias.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/16-desercion_filtro_revisar_evidencias.png" /></a>
+</figure>
+<p>En este paso, el coordinador descarga los soportes usando el botón <strong>"Descargar"</strong>. Después de revisar las evidencias, debe aprobarlas o rechazarlas según corresponda, haciendo clic en el check que aplique.</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/17-desercion_revision_evidencias.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/17-desercion_revision_evidencias.png" /></a>
+</figure>
+<p>Despues de aprobar o rechazar la novedad, se debe hacer clic en el boton <strong>"guardar"</strong>. Esto cambiará la novedad a uno de los siguientes estados:
+- <strong>Novedad cancelada</strong>: Si los soportes son aprobados, la novedad se cancela y termina.
+- <strong>Evidencias rechazadas</strong>: Si los soportes son rechazados, la novedad continúa.</p>
+<h2 id="8-completar-informacion-de-la-novedad-apoyo-a-coordinacion">8️⃣ Completar información de la novedad (Apoyo a coordinación)</h2>
+<p>En cualquiera de los casos, evidencias rechazadas o no presentadas, el apoyo a coordinación debe editar la novedad y completar los campos <strong>"Número Solicitud de Radicado"</strong>, <strong>"Número Respuesta Radicado"</strong>, <strong>"Fecha de Respuesta"</strong>, <strong>"Fecha de Activación"</strong> y <strong>"Duración"</strong>.</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/18-desercion_evidencias_rechazadas_o_no_presentadas.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/18-desercion_evidencias_rechazadas_o_no_presentadas.png" /></a>
+</figure>
+<p>Una vez completados los campos, se debe dar clic en el botón <strong>"Registrar"</strong>. Esto pasará la novedad al estado <strong>"En espera de recurso"</strong> y enviará un correo al aprendiz notificando que debe presentar un recurso a través de PQR. Adjuntamente, se envía el formato <strong>"Notificación por Aviso"</strong>.</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/19-desercion_notificacion_por_aviso.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/19-desercion_notificacion_por_aviso.png" /></a>
+</figure>
+<p>Una vez notificado, el aprendiz cuenta con 10 días hábiles para presentar el recurso. De lo contrario, la novedad pasará automáticamente al estado <strong>"Recurso no presentado"</strong>.</p>
+<h2 id="9-cargar-recurso-de-reposicion-apoyo-a-coordinacion">9️⃣ Cargar recurso de reposición (Apoyo a coordinación)</h2>
+<p><a href="../cargarrecurso/">Presentar recurso</a></p>
+<h2 id="pasar-novedad-a-pendiente-sofia">🔟 Pasar novedad a Pendiente SOFIA</h2>
+<p>En cualquier caso, "Recurso no presentado" o "Recurso rechazado" el apoyo debe editar la novedad y seleccionar la opción "Enviar a SOFIA". La novedad pasará a estado <strong>"Pendiente SOFIA"</strong></p>
+<h2 id="11-finalizar-novedad">1️⃣1️⃣ Finalizar novedad</h2>
+<p>SAF notifica a SOFIA a través de correo sobre la novedad. Cuando el equipo SOFIA reporte el tramitado de la novedad, se debe proceder a finalizarla en SAF. El apoyo a coordinación edita la novedad y selecciona la opción <strong>"Tramitada"</strong> en el campo <strong>"Estado de la solicitud"</strong> y completa el campo <strong>"Fecha en la que se reportó la novedad en SOFIA"</strong>. Hacer clic en el botón Registrar</p>
+<figure>
+    <a class="glightbox" href="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/20-desercion_tramitada.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="/ManualesCEAI/assets/imagenes/desercion/novedad_desercion/20-desercion_tramitada.png" /></a>
+</figure>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Volver al principio
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2025 - SENA
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tracking", "navigation.path", "navigation.prune", "navigation.top", "navigation.indexes", "navigation.tabs", "navigation.tabs.sticky", "toc.follow"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": false, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>
