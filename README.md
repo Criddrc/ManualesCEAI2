@@ -34,7 +34,7 @@ Tener instalado **Python 3.x** y el gestor de paquetes **pip**.
     Crear y activar un entorno virtual:
 
     ```bash
-    python -m venv venv
+    python -m venv .venv
     
     # Activación (Linux/macOS):
     source venv/bin/activate
