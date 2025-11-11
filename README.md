@@ -40,8 +40,8 @@ Tener instalado **Python 3.x** y el gestor de paquetes **pip**.
     source venv/bin/activate
     
     # Activación (Windows):
-    .venv\Scripts\activate.bat
-    .venv\Scripts\Activate.ps1
+    CMD: .venv\Scripts\activate.bat
+    POWERSHELL: .venv\Scripts\Activate.ps1
     ```
 
 5.  **Instalar Dependencias (Orden Estricto)**
