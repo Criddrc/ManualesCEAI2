@@ -53,7 +53,7 @@ plugins:
             placeholder: 'Contraseña'
             decryption_failure_message: 'Credenciales no válidas'
             password_button_text: 'ACEPTAR'
-            encryption_info_message: 'Para acceder a esta página, ingrese las credenciales del rol con permisos de lectura.'
+            encryption_info_message: 'Para acceder a esta interfaz, ingrese las credenciales del rol con permisos de lectura.'
 extra_css:
   - stylesheets/extra.css
 copyright: Copyright &copy; 2025 - SENA
@@ -77,4 +77,14 @@ nav:
       - Calificar plan: SAF/calificarplan.md
       - Culminar plan: SAF/culminarplan.md
   - SEGEP: 
-    - Cargar F023 rol instructor: SEGEP/cargar_F023_instructor.md
+    - Aprendiz:
+      - Registro: SEGEP/aprendiz/registro.md
+      - Inicio de Sesión: SEGEP/aprendiz/inicio.md
+      - Datos Básicos: SEGEP/aprendiz/datos.md
+      - Ente Conformador: SEGEP/aprendiz/ente_conformado.md
+      - Verificación de Bitácoras: SEGEP/aprendiz/bitacora.md
+      - Revisión Formato F023: SEGEP/aprendiz/revisionF023.md
+      - PQR: SEGEP/aprendiz/pqr.md
+      - Cambio de Contraseña: SEGEP/aprendiz/contraseña.md
+    - Instructor:
+      - Cargar F023: SEGEP/instructor/cargar_F023_instructor.md
