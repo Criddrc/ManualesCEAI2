@@ -1,90 +1,73 @@
-# 📘 CARGAR F023 ROL INSTRUCTOR
+# 📘 REVISIÓN DE F023
 
-Este instructivo explica el paso a paso que debe seguir el Instructor para cargar una evidencia de uno de los tres momentos del F023. Tenga presente que sólo puede realizar este proceso, si la evidencia se encuentra en estado "Entregado", "Pendiente" o "Rechazado". Si está aprobado no puede cargar el documento.
+El módulo de Revisión de F023 permite a los instructores gestionar y evaluar los formatos de seguimiento de la etapa productiva presentados por los aprendices. Este espacio facilita la revisión del contenido y la retroalimentación mediante observaciones. El sistema contempla tres tipos de evaluación: Concertación, Evaluación Parcial y Evaluación Final.
 
-## 1️⃣Ingreso al Sistema
+## 1️⃣ **Acceder al módulo de Revisión de F023**
 
-   - ###  Acceder al sistema SEGEP 
-   Acceder al sistema a través del siguiente enlace: [https://productiva.appsceai.com/public/usuarios](https://productiva.appsceai.com/public/usuarios)
+En el menú lateral izquierdo, dentro de la sección **F023**, haga clic en la opción **Revisar F023**.
 
-   - ### Ingresar las credenciales
-   Ingresar las credenciales correspondientes a su rol de instructor
+![Opción Revisar F023](../../assets/imagenes/segep/revisar_F023.png){: .clickable-image}
 
-      - **Usuario:** `nombre_usuario`
-      - **Contraseña:** `contraseña`
+El sistema cargará la interfaz "F023" con el encabezado **Buscar Aprendiz** y mostrará los filtros de búsqueda disponibles.
 
-<figure markdown="span">
-	![Image title](site:assets/imagenes/cargar-f023-instructor-segep/1-ingreso-sistema.png)
-</figure>
+## 2️⃣ **Buscar formularios F023 de los aprendices**
 
-## 2️⃣Consulta del Aprendiz
+El sistema le mostrará múltiples criterios de búsqueda para localizar los formatos F023 que requieren revisión.
 
-   - ### Acceder a la opción usuarios
-   Ir al menú principal y seleccionar la opción **Usuarios** > **Ver usuarios**.
+### **Utilizar los filtros de búsqueda**
 
-<figure markdown="span">
-	![Image title](site:assets/imagenes/cargar-f023-instructor-segep/1_seleccionar_menu_usuarios.png)
-</figure>
+Complete uno o varios campos según sus necesidades de búsqueda:
 
-   -  ### Utilizar los filtros disponibles 
-   Utilizar los filtros disponibles para localizar al aprendiz. Debe tener en cuenta que el aprendiz se encuentre en estado "EN ETAPA PRODUCTIVA"
-      - Ficha
-      - Tipo de documento
-      - Nombres y apellidos
-      - Correo electrónico
-      - Teléfono
+- **Ficha:** Ingrese el número de ficha del grupo de aprendices.
+- **Documento:** Digite el número de documento de identidad del aprendiz.
+- **Nombres/Apellidos:** Escriba el nombre o apellido del aprendiz para filtrar los resultados específicos.
+- **Tipo F023:** Despliegue el menú y seleccione el tipo de formulario que desea revisar:
+    * **Concertación:** Evaluación inicial de concertación del plan de trabajo
+    * **Evaluación Parcial:** Evaluación intermedia del proceso formativo
+    * **Evaluación Final:** Evaluación final de la etapa productiva
+- **Estado F023:** Despliegue el menú y seleccione el estado del formato **(PENDIENTE, ENTREGADO, APROBADO y RECHAZADO)**
 
-<figure markdown="span">
-	![Image title](site:assets/imagenes/cargar-f023-instructor-segep/2_usar_filtros.png)
-</figure>
+![Filtros de búsqueda F023](../../assets/imagenes/segep/búsqueda_F023.png){: .clickable-image}
 
-   - ### Acceder a opciones del aprendiz
-   Una vez localizado, hacer clic en el botón **Opciones** correspondiente al aprendiz.
+Una vez definidos los criterios de búsqueda Haga clic en el botón azul  ![buscar](../../assets/imagenes/segep/iconos/buscarP.png){:.inline-img} ubicado a la derecha de los campos de filtro.
 
-<figure markdown="span">
-	![Image title](site:assets/imagenes/cargar-f023-instructor-segep/3_seleccionar_birrete.png)
-</figure>
+## 3️⃣ **Revisar el listado de formularios F023**
 
-## 3️⃣ Acceso a la Sección F023
+El sistema desplegará una tabla detallada con la información de los formularios F023 encontrados. Esta tabla incluye las siguientes columnas:
 
-   - ### Seleccionar opción **F-023**.
-   En el panel de opciones del aprendiz, seleccionar **F-023**.
+- **Ficha:** Número de ficha del aprendiz.
+- **Documento:** Número de identificación del aprendiz.
+- **Nombres:** Nombre del aprendiz.
+- **Apellidos:** Apellidos del aprendiz.
+- **Tipo F023:** Tipo de evaluación (Concertación, Evaluación Parcial, Evaluación Final).
+- **Estado:** Estado actual del formato **(PENDIENTE, ENTREGADO, APROBADO y RECHAZADO)**
+- **F023:** Enlace **Descargar** para visualizar el documento completo en formato enviado por el aprendiz.
+- **☐ Aprobado:** Casilla de verificación para aprobar el formulario.
+- **☐ Rechazado:** Casilla de verificación para rechazar el formulario.
+- **Observación:** Campos de texto divididos en:
+    * **Aprendiz:** Comentarios registrados por el aprendiz
+    * **Instructor:** Espacio para sus observaciones y retroalimentación
+- **Firmar:** Botón amarillo **Firmar F023** para firmar digitalmente el documento.
 
-<figure markdown="span">
-	![Image title](site:assets/imagenes/cargar-f023-instructor-segep/5_seleccionar_opcion_f023.png)
-</figure>
+![Listado de F023](../../assets/imagenes/segep/listado_F023.png){: .clickable-image}
 
-## 4️⃣Carga del Documento F023
+## 4️⃣ **Descargar y revisar el formulario F023**
 
-   - ### Pestaña **Cargar F023**
-   Hacer clic en la pestaña **Cargar F023**
+Antes de realizar cualquier evaluación, descargue y revise el contenido del formulario:
 
-<figure markdown="span">
-	![Image title](site:assets/imagenes/cargar-f023-instructor-segep/6_clic_pestana_cargar_f023.png)
-</figure>
+- Localice en la columna **F023** el enlace **Descargar** correspondiente al Tipo F023 que desea revisar.
+- Haga clic en el enlace para descargar el documento.
+- El sistema descargará automáticamente el archivo a su equipo.
+- Abra el documento y revise cuidadosamente todo el contenido diligenciado por el aprendiz.
+- Evalúe si el formulario cumple con los criterios establecidos para el tipo de evaluación correspondiente.
 
-   - ### Cargar el archivo
-   Seleccionar el archivo correspondiente desde el dispositivo y cargar el archivo
+## 5️⃣ **Guardar los cambios realizados**
 
-<figure markdown="span">
-	![Image title](site:assets/imagenes/cargar-f023-instructor-segep/7_clic_campo_cargar.png)
-</figure>
+Para garantizar que toda la información evaluada se almacene correctamente en el sistema:
 
-<figure markdown="span">
-	![Image title](site:assets/imagenes/cargar-f023-instructor-segep/8_seleccionar_archivo.png)
-</figure>
+- Revise que todos los campos requeridos estén completos.
+- Desplácese hasta la parte inferior de la pantalla.
+- Haga clic en el botón azul ![guarda](../../assets/imagenes/segep/iconos/guarda.png){:.inline-img} ubicado en la esquina inferior izquierda.
+- Espere el mensaje de confirmación indicando que los datos se guardaron exitosamente.
 
-<figure markdown="span">
-	![Image title](site:assets/imagenes/cargar-f023-instructor-segep/9_clic_boton_cargar.png)
-</figure>
-
-## 5️⃣Verificación
-
-   Una vez cargado el documento, verificar que el estado haya cambiado. Utilizar la opción **DESCARGAR** para revisar el archivo cargado si es necesario.
-
-<figure markdown="span">
-	![Image title](site:assets/imagenes/cargar-f023-instructor-segep/10_verificar_carga_archivo.png)
-</figure>
-
----
-
+![Guardar cambios F023](../../assets/imagenes/segep/guardar_F023.png){: .clickable-image}

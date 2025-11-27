@@ -28,17 +28,17 @@
 h1,h2,h3,h4,h5,h6{
     display: block ruby;
 }
-p > img,
-li > img,
-span > img {
-  display: inline-block;      /* evita salto de línea */
-  vertical-align: middle;     /* alinea con el texto */
-  height: 1.4em;              /* tamaño relativo al texto */
-  margin: 0 0.3em;            /* separación lateral */
-  border: none !important;    /* sin bordes */
-  box-shadow: none !important;/* sin sombra */
+p > img:not(.clickable-image),
+li > img:not(.clickable-image),
+span > img:not(.clickable-image) {
+  display: inline-block;
+  vertical-align: middle;
+  height: 1.4em;
+  margin: 0 0.3em;
+  border: none !important;
+  box-shadow: none !important;
   padding: 0;
-  background: none;           /* elimina fondos verdes */
+  background: none;
 }
 
 /* Ajustes específicos para iconos o botones pequeños */
@@ -56,7 +56,12 @@ img[alt*="calendario"],
 img[alt*="info"],
 img[alt*="mas"],
 img[alt*="icono_menu"],
-img[alt*="registrarse"] {
+img[alt*="registrarse"],
+img[alt*="buscar"],
+img[alt*="mas"],
+img[alt*="birrete"],
+img[alt*="buscarP"],
+img[alt*="descargarR"] {
   max-height: 1.6em;
   width: auto;
   background: none;

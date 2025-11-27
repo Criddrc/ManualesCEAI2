@@ -81,10 +81,16 @@ nav:
       - Registro: SEGEP/aprendiz/registro.md
       - Inicio de Sesión: SEGEP/aprendiz/inicio.md
       - Datos Básicos: SEGEP/aprendiz/datos.md
-      - Ente Conformador: SEGEP/aprendiz/ente_conformado.md
+      - Ente Coformador: SEGEP/aprendiz/ente_coformado.md
       - Verificación de Bitácoras: SEGEP/aprendiz/bitacora.md
       - Revisión Formato F023: SEGEP/aprendiz/revisionF023.md
       - PQR: SEGEP/aprendiz/pqr.md
       - Cambio de Contraseña: SEGEP/aprendiz/contraseña.md
     - Instructor:
-      - Cargar F023: SEGEP/instructor/cargar_F023_instructor.md
+      - Inicio de Sesión: SEGEP/instructor/inicio_instructor.md
+      - Reportes de Aprendices: SEGEP/instructor/reportes.md
+      - Revisión de Bitácoras: SEGEP/instructor/bitacora_instructor.md
+      - Revisión Formato F023: SEGEP/instructor/cargar_F023_instructor.md
+
+      
+
