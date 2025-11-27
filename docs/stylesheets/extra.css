@@ -61,6 +61,7 @@ img[alt*="buscar"],
 img[alt*="mas"],
 img[alt*="birrete"],
 img[alt*="buscarP"],
+img[alt*="calendario2"],
 img[alt*="descargarR"] {
   max-height: 1.6em;
   width: auto;
