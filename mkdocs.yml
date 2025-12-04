@@ -64,10 +64,10 @@ copyright: Copyright &copy; 2025 - SENA
 nav:
   - Inicio: index.html
   - SAF:
-    #- Novedades:
-      #- Deserción: SAF/desercion.md
-      #- Cargar Recurso: SAF/cargarrecurso.md
-      #- Cargar evidencias Deserción: SAF/cargarevidenciadesercionaprendiz.md
+    - Novedades:
+      - Deserción: SAF/desercion.md
+      - Cargar Recurso: SAF/cargarrecurso.md
+      - Cargar evidencias Deserción: SAF/cargarevidenciadesercionaprendiz.md
       # - Diana: SAF/hola diana.md
       # - Diana 2: SAF/hola diana copy.md
     - Plan de Mejoramiento:
@@ -92,6 +92,7 @@ nav:
       - Revisión de Bitácoras: SEGEP/instructor/bitacora_instructor.md
       - Revisión Formato F023: SEGEP/instructor/cargar_F023_instructor.md
       - Acompañamiento: SEGEP/instructor/acompañamiento.md
-
-      
+  - GDC :
+    - Contratista:
+      - Inicio: GDC/inicio.md
 
