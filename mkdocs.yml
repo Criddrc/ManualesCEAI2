@@ -76,7 +76,9 @@ nav:
       - Asociar aprendices: SAF/asociaraprendicesplan.md
       - Calificar plan: SAF/calificarplan.md
       - Culminar plan: SAF/culminarplan.md
-  - SEGEP: 
+  - SEGEP:
+
+    - Inicio: SEGEP/index.md 
     - Aprendiz:
       - Registro: SEGEP/aprendiz/registro.md
       - Inicio de Sesión: SEGEP/aprendiz/inicio.md
@@ -91,6 +93,7 @@ nav:
       - Reportes de Aprendices: SEGEP/instructor/reportes.md
       - Revisión de Bitácoras: SEGEP/instructor/bitacora_instructor.md
       - Revisión Formato F023: SEGEP/instructor/cargar_F023_instructor.md
+      - Acompañamiento: SEGEP/instructor/acompañamiento.md
 
       
 
