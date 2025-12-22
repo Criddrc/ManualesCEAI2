@@ -10,10 +10,10 @@ Después de iniciar sesión exitosamente, el sistema mostrará la interfaz de bi
 
 ### **Seleccionar la ficha correspondiente**
 
-- En el panel superior derecho de la interfaz, haga clic en el ícono de cuatro cuadrados ![icono_menu](../../assets/imagenes/segep/iconos/menu.png){: .inline-img} marcado con el número **1** en la imagen. Este ícono abrirá un panel lateral desplegable con las opciones de ficha disponibles.
+- En el panel superior derecho de la interfaz, haga clic en el ícono de cuatro cuadrados ![icono_menu](site:assets/imagenes/segep/iconos/menu.png){: .inline-img} marcado con el número **1** en la imagen. Este ícono abrirá un panel lateral desplegable con las opciones de ficha disponibles.
 - En el panel lateral desplegable titulado **FICHA**, se mostrarán las fichas asociadas. Haga clic en la ficha correspondiente a su programa de formación actual.
 
-![img3](../../assets/imagenes/segep/img3.png){: .clickable-image}
+![img3](site:assets/imagenes/segep/img3.png){: .clickable-image}
 
 ## 2️⃣ **Acceso a Datos Básicos**
 
@@ -23,7 +23,7 @@ Después de iniciar sesión exitosamente, el sistema mostrará la interfaz de bi
 - En el menú lateral izquierdo, bajo la sección **MENU**, localice la opción **Seguimiento EP** y haga clic sobre ella.
 - Esta acción expandirá un submenú con las opciones relacionadas con el seguimiento de la etapa productiva.
 
-![img4](../../assets/imagenes/segep/img4.png){: .clickable-image}
+![img4](site:assets/imagenes/segep/img4.png){: .clickable-image}
 
 ### **Seleccionar la opción Datos Básicos**
 
@@ -32,7 +32,7 @@ Después de iniciar sesión exitosamente, el sistema mostrará la interfaz de bi
 
 ### **Fecha de inicio de etapa productiva**
 
-Seleccione la fecha utilizando el calendario desplegable ![calendario](../../assets/imagenes/segep/iconos/calendario.png){:.inline-img} ubicado al lado del campo de fecha. El formato requerido es **dd/mm/aaaa**.
+Seleccione la fecha utilizando el calendario desplegable ![calendario](site:assets/imagenes/segep/iconos/calendario.png){:.inline-img} ubicado al lado del campo de fecha. El formato requerido es **dd/mm/aaaa**.
 
 ### **Instructor encargado del seguimiento**
 
@@ -49,13 +49,14 @@ Seleccione una de las siguientes opciones:
 - Contrato vínculo formativo
 - Monitoría
 
-Al lado de cada alternativa se encuentra un ícono de información ![info](../../assets/imagenes/segep/iconos/info.png){:.inline-img} que al hacer clic sobre él, muestra una breve descripción de cada alternativa para facilitar la selección correcta.
+Al lado de cada alternativa se encuentra un ícono de información ![info](site:assets/imagenes/segep/iconos/info.png){:.inline-img} que al hacer clic sobre él, muestra una breve descripción de cada alternativa para facilitar la selección correcta.
 
 ### **Guardar la información**
 
 - Verifique que todos los campos obligatorios estén completos.
-- Haga clic en el botón ![guarda](../../assets/imagenes/segep/iconos/guarda.png){:.inline-img} ubicado en la parte inferior del formulario.
+- Haga clic en el botón ![guarda](site:assets/imagenes/segep/iconos/guarda.png){:.inline-img} ubicado en la parte inferior del formulario.
 
-![datos](../../assets/imagenes/segep/datos.png){: .clickable-image}
+![datos](site:assets/imagenes/segep/datos.png){: .clickable-image}
 
 ---
+

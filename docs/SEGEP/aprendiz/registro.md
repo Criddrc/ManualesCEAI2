@@ -12,13 +12,13 @@ Acceda al sistema a través del siguiente enlace: [https://productiva.appsceai.c
 
 En el panel superior derecho de la interfaz de inicio de sesión, haga clic en **REGISTRARME**. El sistema lo redirigirá a la interfaz de Registro SEGEP.
 
-![img1](../../assets/imagenes/segep/img1.png){: .clickable-image}
+![img1](site:assets/imagenes/segep/img1.png){: .clickable-image}
 
 ### **Ingresar el número de documento**
 
 - En la interfaz de **Registro SEGEP**, localice el campo **Documento** y complételo con su número de identidad sin puntos ni comas. Verifique que el número ingresado sea correcto antes de continuar.
-- Luego haga clic en el botón azul ![registrarse](../../assets/imagenes/segep/iconos/registrarse.png){:.inline-img} ubicado debajo del campo de documento.
+- Luego haga clic en el botón azul ![registrarse](site:assets/imagenes/segep/iconos/registrarse.png){:.inline-img} ubicado debajo del campo de documento.
 
-![img2](../../assets/imagenes/segep/img2.png){: .clickable-image}
+![img2](site:assets/imagenes/segep/img2.png){: .clickable-image}
 
 ---

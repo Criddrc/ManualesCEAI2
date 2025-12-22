@@ -14,17 +14,16 @@ En el menú lateral, bajo **Seguimiento EP**, haga clic en la opción **Datos en
 - En el campo **Teléfono Ente coformador**, ingrese el número telefónico de contacto de la empresa o del coformador responsable.
 - En el campo **Correo Ente coformador**, ingrese la dirección de correo electrónico corporativo del coformador responsable o de la empresa.
 
-![img6](../../assets/imagenes/segep/img6.png){: .clickable-image}
+![img6](site:assets/imagenes/segep/img6.png){: .clickable-image}
 
 ### **Guardar la información del ente coformador**
 
-- Una vez completados todos los campos requeridos, haga clic en el botón azul ![guarda](../../assets/imagenes/segep/iconos/guarda.png){:.inline-img}.
-
+- Una vez completados todos los campos requeridos, haga clic en el botón azul ![guarda](site:assets/imagenes/segep/iconos/guarda.png){:.inline-img}.
 ## 2️⃣ **Editar la razón social (cuando sea necesario)**
 
-Si el nombre o razón social no se encuentra en la lista desplegable, haga clic en el ícono de lápiz amarillo ![editar](../../assets/imagenes/segep/iconos/editar.png){:.inline-img} ubicado junto al campo **Razón social**. El sistema abrirá un formulario adicional donde podrá editar los detalles de la empresa.
+Si el nombre o razón social no se encuentra en la lista desplegable, haga clic en el ícono de lápiz amarillo ![editar](site:assets/imagenes/segep/iconos/editar.png){:.inline-img} ubicado junto al campo **Razón social**. El sistema abrirá un formulario adicional donde podrá editar los detalles de la empresa.
 
-![img7](../../assets/imagenes/segep/img7.png){: .clickable-image}
+![img7](site:assets/imagenes/segep/img7.png){: .clickable-image}
 
 ### **Verificar los datos completos del ente coformador**
 
@@ -41,6 +40,6 @@ Después de guardar, el sistema mostrará todos los datos del ente coformador in
 
 Revise que toda la información sea correcta antes de proceder con otros módulos.
 
-![img8](../../assets/imagenes/segep/img8.png){: .clickable-image}
+![img8](site:assets/imagenes/segep/img8.png){: .clickable-image}
 
 ---

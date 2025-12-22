@@ -49,3 +49,4 @@ Una vez diligenciado el formulario:
 
 - Verificar que no haya errores en los campos.
 - Confirmar mediante el botón "Crear actividad" para guardar los datos
+

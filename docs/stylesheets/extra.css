@@ -62,7 +62,8 @@ img[alt*="mas"],
 img[alt*="birrete"],
 img[alt*="buscarP"],
 img[alt*="calendario2"],
-img[alt*="descargarR"] {
+img[alt*="descargarR"],
+img[alt*="+registrarNovedad"] {
   max-height: 1.6em;
   width: auto;
   background: none;

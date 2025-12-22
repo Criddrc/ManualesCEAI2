@@ -168,3 +168,4 @@ SAF notifica a SOFIA a través de correo sobre la novedad. Cuando el equipo SOFI
 <figure markdown="span">
 	![Image title](site:assets/imagenes/desercion/novedad_desercion/20-desercion_tramitada.png)
 </figure>
+

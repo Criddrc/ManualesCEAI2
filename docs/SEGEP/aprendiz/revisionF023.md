@@ -6,7 +6,7 @@ El módulo de Revisión de F023 permite gestionar los formatos de seguimiento y 
 
 En el menú lateral izquierdo, dentro de la sección **Seguimiento EP**, haga clic en la opción **Revisión de F023**.
 
-![Opción Revisión de F023](../../assets/imagenes/segep/img23.png){: .clickable-image}
+![Opción Revisión de F023](site:assets/imagenes/segep/img23.png){: .clickable-image}
 
 El sistema cargará la interfaz "F023" con el encabezado **Revisión de F023** y mostrará las opciones disponibles.
 
@@ -14,12 +14,11 @@ El sistema cargará la interfaz "F023" con el encabezado **Revisión de F023** y
 
 Antes de cargar cualquier evaluación, es necesario descargar la plantilla oficial del formato. Para ello:
 
-- Haga clic en el botón azul ![descargaf023](../../assets/imagenes/segep/iconos/descargaF023.png){:.inline-img} **Descargar Formato F023** ubicado en la parte superior de la interfaz.
+- Haga clic en el botón azul ![descargaf023](site:assets/imagenes/segep/iconos/descargaF023.png){:.inline-img} **Descargar Formato F023** ubicado en la parte superior de la interfaz.
 - El sistema descargará automáticamente el archivo en formato compatible (generalmente .docx).
 - Guarde el archivo en una ubicación conocida de su equipo para su posterior diligenciamiento.
 
-![img24](../../assets/imagenes/segep/img24.png){: .clickable-image}
-
+![img24](site:assets/imagenes/segep/img24.png){: .clickable-image}
 ## 3️⃣ **Revisar la tabla de evaluaciones F023**
 
 El sistema mostrará una tabla con los tres tipos de evaluación y las siguientes columnas:
@@ -38,10 +37,10 @@ El sistema mostrará una tabla con los tres tipos de evaluación y las siguiente
 - **Archivo F023:** Sección con el texto "ADJUNTAR F023" y botón **Browse** para seleccionar el archivo desde su equipo.
 
 - **Acciones:** 
-    * **Botón Descargar:** Permite descargar el formato F023 previamente cargado (botón amarillo) ![Botón Descargar](../../assets/imagenes/segep/iconos/botondescargar.png){:.inline-img}.
-    * **Botón Cargar:** Permite cargar el formato F023 diligenciado al sistema (botón azul) ![Cargar](../../assets/imagenes/segep/iconos/cargar.png){:.inline-img}.
+    * **Botón Descargar:** Permite descargar el formato F023 previamente cargado (botón amarillo) ![Botón Descargar](site:assets/imagenes/segep/iconos/botondescargar.png){:.inline-img}.
+    * **Botón Cargar:** Permite cargar el formato F023 diligenciado al sistema (botón azul) ![Cargar](site:assets/imagenes/segep/iconos/cargar.png){:.inline-img}.
 
-![Tabla de Revisión de F023](../../assets/imagenes/segep/img25.png){: .clickable-image}
+![Tabla de Revisión de F023](site:assets/imagenes/segep/img25.png){: .clickable-image}
 
 ## 4️⃣ **Cargar el Formato F023**
 
@@ -49,24 +48,23 @@ El sistema mostrará una tabla con los tres tipos de evaluación y las siguiente
 
 Una vez diligenciado completamente el formato F023 descargado:
 
-- En la fila correspondiente al tipo de evaluación que desea cargar, haga clic en el botón **Browse** ![browse](../../assets/imagenes/segep/iconos/browse.png){:.inline-img} ubicado en la columna **Archivo F023**.
+- En la fila correspondiente al tipo de evaluación que desea cargar, haga clic en el botón **Browse** ![browse](site:assets/imagenes/segep/iconos/browse.png){:.inline-img} ubicado en la columna **Archivo F023**.
 - El sistema abrirá el explorador de archivos de su equipo.
 - Navegue hasta la carpeta donde se encuentra el archivo F023 diligenciado.
 - Seleccione el archivo correspondiente.
 - Haga clic en el botón **Abrir** para confirmar la selección.
 
-![Explorador de archivos para F023](../../assets/imagenes/segep/img12.png){: .clickable-image}
+![Explorador de archivos para F023](site:assets/imagenes/segep/img12.png){: .clickable-image}
 
 ## 5️⃣ **Confirmar la carga del archivo**
 
 Una vez seleccionado el archivo desde el explorador:
 
-- Haga clic en el botón azul **Cargar** ![Cargar](../../assets/imagenes/segep/iconos/cargar.png){:.inline-img} ubicado en la columna **Acciones**.
+- Haga clic en el botón azul **Cargar** ![Cargar](site:assets/imagenes/segep/iconos/cargar.png){:.inline-img} ubicado en la columna **Acciones**.
 - El sistema procesará el archivo y actualizará automáticamente el estado del F023 a **ENTREGADO**.
 - El archivo quedará disponible para revisión por parte del instructor o evaluador responsable.
 
-![Botón Cargar F023](../../assets/imagenes/segep/img13.png){: .clickable-image}
-
+![Botón Cargar F023](site:assets/imagenes/segep/img13.png){: .clickable-image}
 **Nota importante:** Repita este proceso para cada uno de los tres tipos de evaluación según corresponda al período formativo.
 
 ## 6️⃣ **Estado de F023** {#estado-de-f023}
@@ -74,13 +72,13 @@ Una vez seleccionado el archivo desde el explorador:
 El sistema utiliza cuatro estados para indicar el progreso de cada formato F023:
 
 - **PENDIENTE:** El formato F023 aún no ha sido cargado al sistema por el aprendiz.
-  ![pendiente](../../assets/imagenes/segep/pendiente.png){: .clickable-image}
+  ![pendiente](site:assets/imagenes/segep/pendiente.png){: .clickable-image}
 - **ENTREGADO:** El formato ha sido cargado exitosamente y está en espera de revisión por parte del instructor.
-  ![entregado](../../assets/imagenes/segep/img28.png){: .clickable-image}
+  ![entregado](site:assets/imagenes/segep/img28.png){: .clickable-image}
 - **APROBADO:** El formato ha sido revisado y aprobado por el instructor. No requiere modificaciones.
-  ![aprobado](../../assets/imagenes/segep/aprobado.png){: .clickable-image}
+  ![aprobado](site:assets/imagenes/segep/aprobado.png){: .clickable-image}
 - **RECHAZADO:** El formato requiere correcciones según las observaciones registradas por el instructor en la columna **Observación**. Es posible volver a cargar el archivo corregido.
-  ![rechazado](../../assets/imagenes/segep/rechazado.png){: .clickable-image}
+  ![rechazado](site:assets/imagenes/segep/rechazado.png){: .clickable-image}
 
 ## 7️⃣ **Notas importantes**
 

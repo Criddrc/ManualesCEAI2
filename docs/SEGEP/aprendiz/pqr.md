@@ -6,7 +6,7 @@ El módulo PQR (Preguntas, Quejas y Reclamos) permite a los aprendices consultar
 
 En el menú lateral izquierdo, haga clic en la opción **PQR** ubicada debajo de la sección **Seguimiento EP**.
 
-![img24](../../assets/imagenes/segep/pqr-menu.png){: .clickable-image}
+![img24](site:assets/imagenes/segep/pqr-menu.png){: .clickable-image}
 
 El sistema cargará la interfaz **PQR** con un campo de búsqueda y una lista de preguntas frecuentes organizadas en secciones desplegables.
 
@@ -21,15 +21,15 @@ En la parte superior de la interfaz se encuentra un campo de texto con el marcad
 - Presione la tecla **Enter**.
 - El sistema filtrará y mostrará las preguntas relacionadas con los términos ingresados.
 
-![img29](../../assets/imagenes/segep/img29.png){: .clickable-image}
+![img29](site:assets/imagenes/segep/img29.png){: .clickable-image}
 
 **Ejemplo de búsqueda:** Si desea información sobre el instructor, ingrese términos como "instructor", "seguimiento" o "responsable".
 
 ## 3️⃣ **Consultar preguntas frecuentes**
 
-El sistema presenta una lista de preguntas frecuentes organizadas en secciones desplegables. Cada pregunta aparece en una barra gris con un ícono de suma ![mas](../../assets/imagenes/segep/iconos/mas.png){:.inline-img} a la derecha.
+El sistema presenta una lista de preguntas frecuentes organizadas en secciones desplegables. Cada pregunta aparece en una barra gris con un ícono de suma ![mas](site:assets/imagenes/segep/iconos/mas.png){:.inline-img} a la derecha.
 
-![img30](../../assets/imagenes/segep/img30.png){: .clickable-image}
+![img30](site:assets/imagenes/segep/img30.png){: .clickable-image}
 
 ## 4️⃣ **Solicitar ayuda adicional**
 
@@ -47,7 +47,7 @@ Si su pregunta específica no se encuentra en la lista de preguntas frecuentes:
   - Evitar preguntas demasiado generales o ambiguas
   - Verificar la ortografía antes de enviar
 
-![img31](../../assets/imagenes/segep/img31.png){: .clickable-image}
-![img32](../../assets/imagenes/segep/img32.png){: .clickable-image}
+![img31](site:assets/imagenes/segep/img31.png){: .clickable-image}
+![img32](site:assets/imagenes/segep/img32.png){: .clickable-image}
 
 ---

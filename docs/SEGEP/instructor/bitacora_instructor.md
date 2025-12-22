@@ -8,7 +8,7 @@ Este instructivo explica el procedimiento paso a paso para que el instructor rev
 
 Asegúrese de haber iniciado sesión en el sistema SEGEP con sus credenciales de instructor. En el menú lateral izquierdo, localice y haga clic en la opción **Bitácoras**, se desplegará un submenú. Haga clic en la opción **Revisar bitácoras**.
 
-![Menú lateral con opción Bitácoras](../../assets/imagenes/segep/menu-bitacoras.png){: .clickable-image}
+![Menú lateral con opción Bitácoras](site:assets/imagenes/segep/menu-bitacoras.png){: .clickable-image}
 
 El sistema lo redirigirá a la interfaz principal de revisión de bitácoras.
 
@@ -23,13 +23,12 @@ La sección de búsqueda contiene los siguientes filtros:
 - **Estado ficha:** Estado del aprendiz (Activo, Inactivo, etc.)
 - **Estado Bitácora:** Estado de la bitácora **(PENDIENTE, ENTREGADO, APROBADO y RECHAZADO)**
 
-![Sección de filtros](../../assets/imagenes/segep/seccion-busqueda.png){: .clickable-image}
+![Sección de filtros](site:assets/imagenes/segep/seccion-busqueda.png){: .clickable-image}
 
 ### **Ejecutar la búsqueda**
 
-Una vez configurados los filtros, haga clic en el botón azul ![buscar](../../assets/imagenes/segep/iconos/buscar.png){:.inline-img}.
-
-![Botón Buscar](../../assets/imagenes/segep/boton-buscar.png){: .clickable-image}
+Una vez configurados los filtros, haga clic en el botón azul ![buscar](site:assets/imagenes/segep/iconos/buscar.png){:.inline-img}.
+![Botón Buscar](site:assets/imagenes/segep/boton-buscar.png){: .clickable-image}
 
 
 ## 3️⃣ **Listado de Bitácoras**
@@ -58,7 +57,7 @@ La tabla muestra las siguientes columnas:
 - **Observaciones:** Campos de texto para aprendiz e instructor
 - **Firmar:** Botón para guardar la revisión
 
-![Tabla de bitácoras](../../assets/imagenes/segep/tabla-bitacoras.png){: .clickable-image}
+![Tabla de bitácoras](site:assets/imagenes/segep/tabla-bitacoras.png){: .clickable-image}
 
 ## 4️⃣ **Guardar la revisión de Bitácoras**
 
@@ -66,5 +65,6 @@ Para garantizar que toda la información evaluada se almacene correctamente en e
 
 - Revise que todos los campos requeridos estén completos.
 - Desplácese hasta la parte inferior de la pantalla.
-- Haga clic en el botón azul ![guarda](../../assets/imagenes/segep/iconos/guarda.png){:.inline-img} ubicado en la esquina inferior izquierda.
+- Haga clic en el botón azul ![guarda](site:assets/imagenes/segep/iconos/guarda.png){:.inline-img} ubicado en la esquina inferior izquierda.
 - Espere el mensaje de confirmación indicando que los datos se guardaron exitosamente.
+

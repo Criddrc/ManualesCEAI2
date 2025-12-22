@@ -62,3 +62,4 @@
 <figure markdown="span">
 	![Image title](site:assets/imagenes/calificar_pm/calificar_plan_completo.png)
 </figure>
+

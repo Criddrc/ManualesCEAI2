@@ -21,10 +21,61 @@
   text-decoration: none;
   font-size: 12pt;
   height: 21px;
+  line-height: 21px;
   text-align: center;
-  vertical-align: middle;
 }
 
 h1,h2,h3,h4,h5,h6{
     display: block ruby;
+}
+p > img:not(.clickable-image),
+li > img:not(.clickable-image),
+span > img:not(.clickable-image) {
+  display: inline-block;
+  vertical-align: middle;
+  height: 1.4em;
+  margin: 0 0.3em;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0;
+  background: none;
+}
+
+/* Ajustes específicos para iconos o botones pequeños */
+img[alt*="ingresar"],
+img[alt*="registrar"],
+img[alt*="recuperar2"],
+img[alt*="guarda"],
+img[alt*="editar"],
+img[alt*="descargar"],
+img[alt*="Cargar"],
+img[alt*="browse"],
+img[alt*="Botón Descargar"],
+img[alt*="descargaf023"],
+img[alt*="calendario"],
+img[alt*="info"],
+img[alt*="mas"],
+img[alt*="icono_menu"],
+img[alt*="registrarse"],
+img[alt*="buscar"],
+img[alt*="mas"],
+img[alt*="birrete"],
+img[alt*="buscarP"],
+img[alt*="calendario2"],
+img[alt*="descargarR"],
+img[alt*="+registrarNovedad"] {
+  max-height: 1.6em;
+  width: auto;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+/* Ajuste de alineación para iconos inline */
+.inline-img {
+  vertical-align: baseline !important;
+  position: relative;
+  top: 0.2em;
+  max-height: 1.4em !important;
+  margin: 0 0.2em;
 }

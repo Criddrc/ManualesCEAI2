@@ -6,7 +6,7 @@ Este instructivo explica el procedimiento paso a paso para que el instructor vis
 
 Localice el menú lateral izquierdo de la interfaz. En este menú encontrará las diferentes opciones disponibles. Identifique y haga clic en la opción **Reportes** ubicada en el menú lateral izquierdo.
 
-![reportes](../../assets/imagenes/segep/reportes.png){: .clickable-image}
+![reportes](site:assets/imagenes/segep/reportes.png){: .clickable-image}
 
 El sistema lo redirigirá a la interfaz principal del módulo de reportes, donde podrá visualizar los diferentes tipos de reportes disponibles.
 
@@ -16,7 +16,7 @@ El sistema lo redirigirá a la interfaz principal del módulo de reportes, donde
 
 Localice la sección titulada **"Seguimiento etapa productiva aprendices"** en la parte superior de la interfaz.
 
-![Sección Seguimiento Etapa Productiva](../../assets/imagenes/segep/seguimiento-etapa-productiva.png){: .clickable-image}
+![Sección Seguimiento Etapa Productiva](site:assets/imagenes/segep/seguimiento-etapa-productiva.png){: .clickable-image}
 
 **Configurar los filtros de búsqueda**
 
@@ -32,7 +32,7 @@ El sistema ofrece varios filtros para la información que desea consultar. Confi
 
 ###  **Generar y descargar el reporte**
 
-Una vez configurados todos los filtros según sus necesidades, haga clic en el botón azul ![descargar](../../assets/imagenes/segep/iconos/descargarR.png){: .inline-img} ubicado en la parte inferior de la sección.
+Una vez configurados todos los filtros según sus necesidades, haga clic en el botón azul ![descargar](site:assets/imagenes/segep/iconos/descargarR.png){: .inline-img} ubicado en la parte inferior de la sección.
 
 ## 3️⃣ **Generar Reporte de Aprendices Registrados**
 
@@ -40,7 +40,7 @@ Una vez configurados todos los filtros según sus necesidades, haga clic en el b
 
 Desplácese hacia abajo en la interfaz de reportes hasta localizar la sección titulada **"Reporte aprendices registrados"**.
 
-![Sección Reporte Aprendices Registrados](../../assets/imagenes/segep/aprendices-registrados.png){: .clickable-image}
+![Sección Reporte Aprendices Registrados](site:assets/imagenes/segep/aprendices-registrados.png){: .clickable-image}
 
 - **Ficha:** En el campo **Ficha**, ingrese el número de ficha del programa de formación que desea consultar.
 - **Filtro por Programa:** Haga clic en el campo desplegable **Programa** y seleccione el programa de formación específico.
@@ -48,7 +48,7 @@ Desplácese hacia abajo en la interfaz de reportes hasta localizar la sección t
 
 ### **Generar y descargar el reporte**
 
-Una vez configurados los filtros, haga clic en el botón azul ![descargar](../../assets/imagenes/segep/iconos/descargarR.png){: .inline-img} ubicado en la parte inferior de esta sección.
+Una vez configurados los filtros, haga clic en el botón azul ![descargar](site:assets/imagenes/segep/iconos/descargarR.png){: .inline-img} ubicado en la parte inferior de esta sección.
 
 ## 4️⃣ **Generar Reporte de Encuestas**
 
@@ -56,8 +56,8 @@ Una vez configurados los filtros, haga clic en el botón azul ![descargar](../..
 
 Continúe desplazándose hacia abajo en la interfaz hasta localizar la sección titulada **"Reporte encuestas"**.
 
-![Sección Reporte Encuestas](../../assets/imagenes/segep/reporte-encuestas.png){: .clickable-image}
+![Sección Reporte Encuestas](site:assets/imagenes/segep/reporte-encuestas.png){: .clickable-image}
 
 ### **Generar y descargar el reporte**
 
-Haga clic directamente en el botón azul ![descargar](../../assets/imagenes/segep/iconos/descargarR.png){: .inline-img}  para generar y descargar el archivo de encuestas.
+Haga clic directamente en el botón azul ![descargar](site:assets/imagenes/segep/iconos/descargarR.png){: .inline-img}  para generar y descargar el archivo de encuestas.

@@ -1,63 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
+        <loc>https://appsceai.com/ManualesCEAI/GDC/inicio/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/GDC/inicio/"/>
+    </url>
+    <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/asociaraprendicesplan/</loc>
-        <lastmod>2025-09-17</lastmod>
+        <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/asociaraprendicesplan/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/calificarplan/</loc>
-        <lastmod>2025-09-17</lastmod>
+        <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/calificarplan/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/cargarevidenciadesercionaprendiz/</loc>
-        <lastmod>2025-09-17</lastmod>
+        <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/cargarevidenciadesercionaprendiz/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/cargarrecurso/</loc>
-        <lastmod>2025-09-17</lastmod>
+        <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/cargarrecurso/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/crearactividadesplan/</loc>
-        <lastmod>2025-09-17</lastmod>
+        <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/crearactividadesplan/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/crearplan/</loc>
-        <lastmod>2025-09-17</lastmod>
+        <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/crearplan/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/culminarplan/</loc>
-        <lastmod>2025-09-17</lastmod>
+        <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/culminarplan/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/desercion/</loc>
-        <lastmod>2025-09-17</lastmod>
+        <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/desercion/"/>
     </url>
     <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/retiro/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/retiro/"/>
+    </url>
+    <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/</loc>
-        <lastmod>2025-09-17</lastmod>
+        <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/"/>
     </url>
     <url>
-        <loc>https://appsceai.com/ManualesCEAI/SEGEP/cargar_F023_instructor/</loc>
-        <lastmod>2025-09-17</lastmod>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/</loc>
+        <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/cargar_F023_instructor/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/bitacora/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/bitacora/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/contrase%C3%B1a/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/contrase%C3%B1a/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/datos/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/datos/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/ente_coformado/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/ente_coformado/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/inicio/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/inicio/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/pqr/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/pqr/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/registro/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/registro/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/revisionF023/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/revisionF023/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/instructor/acompa%C3%B1amiento/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/instructor/acompa%C3%B1amiento/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/instructor/bitacora_instructor/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/instructor/bitacora_instructor/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/instructor/cargar_F023_instructor/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/instructor/cargar_F023_instructor/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/instructor/inicio_instructor/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/instructor/inicio_instructor/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SEGEP/instructor/reportes/</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/instructor/reportes/"/>
     </url>
 </urlset>

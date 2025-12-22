@@ -18,3 +18,4 @@ En la interfaz que presenta SAF, el aprendiz debe cargar las evidencias que just
 	![Image title](site:assets/imagenes/desercion/cargar_evidencias/2-aprendiz_presentar_evidencias.png)
 </figure>
 
+

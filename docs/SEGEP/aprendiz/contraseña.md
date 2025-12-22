@@ -12,6 +12,7 @@ En la interfaz **Cambiar Contraseña**, complete el campo **Nueva Contraseña** 
 
 En el campo **Confirmar Contraseña**, reingrese exactamente la misma contraseña ingresada en el paso anterior. El sistema verificará que ambas contraseñas coincidan.
 
-![img13](../../assets/imagenes/segep/img13.png){: .clickable-image}
+![img13](site:assets/imagenes/segep/img13.png){: .clickable-image}
 
 ---
+

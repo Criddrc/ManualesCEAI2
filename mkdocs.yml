@@ -1,4 +1,4 @@
-INHERIT: menu.yml
+---
 site_name: Documentación aplicativos CEAI
 site_url: https://appsceai.com/ManualesCEAI/
 # site_url: http://localhost
@@ -64,10 +64,23 @@ copyright: Copyright &copy; 2025 - SENA
 nav:
   - Inicio: index.html
   - SAF:
-    #- Novedades:
-      #- Deserción: SAF/desercion.md
-      #- Cargar Recurso: SAF/cargarrecurso.md
-      #- Cargar evidencias Deserción: SAF/cargarevidenciadesercionaprendiz.md
+    - Aprendiz:
+      #- Inicio de Sesión: SAF/aprendiz/inicio.md
+      # - Consultar Horario:
+      # - Horario por Curso: SAF/aprendiz/horario/horariosCurso.md
+      #  - Horario por Instructor: SAF/aprendiz/horario/horariosInstructor.md
+      # - Horario por Ambiente: SAF/aprendiz/horario/horariosAmbiente.md
+      #  - Horario por Curso Complementario: SAF/aprendiz/horario/horariosComplementario.md
+      - Gestión de Novedades:
+        - Retiro Voluntario: SAF/aprendiz/gestionNovedades/retiro.md
+        - Aplazamiento: SAF/aprendiz/gestionNovedades/aplazamiento.md
+        - Traslado de Centro: SAF/aprendiz/gestionNovedades/trasladoCentro.md
+        - Traslado de Jornada: SAF/aprendiz/gestionNovedades/trasladoJornada.md
+        - Traslado de Programa: SAF/aprendiz/gestionNovedades/trasladoPrograma.md
+    - Novedades:
+      - Deserción: SAF/desercion.md
+      - Cargar Recurso: SAF/cargarrecurso.md
+      - Cargar evidencias Deserción: SAF/cargarevidenciadesercionaprendiz.md
       # - Diana: SAF/hola diana.md
       # - Diana 2: SAF/hola diana copy.md
     - Plan de Mejoramiento:
@@ -94,6 +107,8 @@ nav:
       - Revisión de Bitácoras: SEGEP/instructor/bitacora_instructor.md
       - Revisión Formato F023: SEGEP/instructor/cargar_F023_instructor.md
       - Acompañamiento: SEGEP/instructor/acompañamiento.md
-
       
+  - GDC :
+    - Contratista:
+      - Inicio: GDC/inicio.md
 

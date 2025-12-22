@@ -6,7 +6,7 @@ El módulo de Acompañamiento permite a los instructores registrar y gestionar l
 
 En el menú lateral izquierdo, dentro de la sección **Acompañamiento**, haga clic en la opción **Ver acompañamiento**.
 
-![Opción Ver acompañamiento](../../assets/imagenes/segep/ver_acompanamiento.png){: .clickable-image}
+![Opción Ver acompañamiento](site:assets/imagenes/segep/ver_acompanamiento.png){: .clickable-image}
 
 El sistema cargará la interfaz "Acompañamiento" con el encabezado **Buscar Aprendiz** y mostrará los filtros de búsqueda disponibles.
 
@@ -19,19 +19,18 @@ El sistema le proporciona múltiples criterios de búsqueda para localizar a los
 Complete uno o varios campos según sus necesidades de búsqueda:
 
 - **Ficha:** Ingrese el número de ficha del grupo de aprendices.
-- **Fecha de visita:** Seleccione la fecha en la cual realizó o planea realizar el acompañamiento. Utilice el formato dd/mm/aaaa o el calendario desplegable haciendo clic en el ícono de calendario ![calendario2](../../assets/imagenes/segep/iconos/calendario2.png){:.inline-img}.
+- **Fecha de visita:** Seleccione la fecha en la cual realizó o planea realizar el acompañamiento. Utilice el formato dd/mm/aaaa o el calendario desplegable haciendo clic en el ícono de calendario ![calendario2](site:assets/imagenes/segep/iconos/calendario2.png){:.inline-img}.
 - **Documento:** Digite el número de documento de identidad del aprendiz.
 - **Nombres:** Escriba el nombre del aprendiz para filtrar los resultados específicos.
 - **Apellidos:** Escriba el apellido del aprendiz para filtrar los resultados específicos.
-Después de ingresar los criterios deseados, haga clic en el botón azul ![buscar](../../assets/imagenes/segep/iconos/buscar.png){:.inline-img} para ver los resultados.
-
-![Interfaz Acompañamiento](../../assets/imagenes/segep/interfaz_acompanamiento.png){: .clickable-image}
+Después de ingresar los criterios deseados, haga clic en el botón azul ![buscar](site:assets/imagenes/segep/iconos/buscar.png){:.inline-img} para ver los resultados.
+![Interfaz Acompañamiento](site:assets/imagenes/segep/interfaz_acompanamiento.png){: .clickable-image}
 
 ## 3️⃣ **Crear acompañamiento**
 
 Para registrar un nuevo acompañamiento, diríjase al menú lateral izquierdo y haga clic en la opción **Crear acompañamiento**. El sistema mostrará la interfaz para el registro de un nuevo acompañamiento con el título **Listado de aprendices asociados**.
 
-![Opción Crear acompañamiento](../../assets/imagenes/segep/crear_acompanamiento.png){: .clickable-image}
+![Opción Crear acompañamiento](site:assets/imagenes/segep/crear_acompanamiento.png){: .clickable-image}
 
 ### **Buscar el aprendiz para crear acompañamiento**
 
@@ -42,14 +41,13 @@ En la interfaz de creación de acompañamiento, utilice los filtros de búsqueda
 - **Nombres:** Escriba el nombre del aprendiz.
 - **Apellidos:** Escriba el apellido del aprendiz.
 
-![Filtros de búsqueda crear acompañamiento](../../assets/imagenes/segep/filtros_crear_acompanamiento.png){: .clickable-image}
+![Filtros de búsqueda crear acompañamiento](site:assets/imagenes/segep/filtros_crear_acompanamiento.png){: .clickable-image}
 
-Una vez ingresados los criterios de búsqueda, haga clic en el botón azul ![buscar](../../assets/imagenes/segep/iconos/buscar.png){:.inline-img} ubicado a la derecha de los campos de filtro.
+Una vez ingresados los criterios de búsqueda, haga clic en el botón azul ![buscar](site:assets/imagenes/segep/iconos/buscar.png){:.inline-img} ubicado a la derecha de los campos de filtro.
 
 El sistema desplegará el listado de aprendices que coinciden con los criterios ingresados.
 
-![Listado de aprendices](../../assets/imagenes/segep/listado_aprendices.png){: .clickable-image}
-
+![Listado de aprendices](site:assets/imagenes/segep/listado_aprendices.png){: .clickable-image}
 ## 5️⃣ **Completar el formulario de acompañamiento**
 
 Una vez localizado el aprendiz, el sistema mostrará un formulario con los siguientes campos que debe completar:
@@ -63,15 +61,15 @@ Una vez localizado el aprendiz, el sistema mostrará un formulario con los sigui
 - Haga clic en **Abrir** para adjuntar el archivo.
 - El sistema mostrará el nombre del archivo seleccionado junto al botón.
 
-![Seleccionar archivo](../../assets/imagenes/segep/seleccionar_archivo.png){: .clickable-image}
+![Seleccionar archivo](site:assets/imagenes/segep/seleccionar_archivo.png){: .clickable-image}
 
 ### **Seleccione la fecha del acompañamiento:**
 
 - Haga clic en el campo de fecha que muestra el formato **dd/mm/aaaa**.
-- El sistema desplegará un calendario interactivo ![calendario2](../../assets/imagenes/segep/iconos/calendario2.png){:.inline-img}.
+- El sistema desplegará un calendario interactivo ![calendario2](site:assets/imagenes/segep/iconos/calendario2.png){:.inline-img}.
 - Seleccione el día, mes y año correspondiente a la visita de acompañamiento realizada.
 
-![Seleccionar fecha](../../assets/imagenes/segep/seleccionar_fecha.png){: .clickable-image}
+![Seleccionar fecha](site:assets/imagenes/segep/seleccionar_fecha.png){: .clickable-image}
 
 ### **Seleccione los aprendices a los cuales se les cargará el archivo:**
 
@@ -90,7 +88,7 @@ El sistema mostrará una tabla con los aprendices encontrados que incluye las si
 - Puede seleccionar múltiples aprendices si realizó el acompañamiento a varios de ellos en la misma visita.
 - Para seleccionar todos los aprendices mostrados, marque la casilla **☐ Seleccionar** ubicada en el encabezado de la tabla.
 
-![Seleccionar aprendices](../../assets/imagenes/segep/seleccionar_aprendices.png){: .clickable-image}
+![Seleccionar aprendices](site:assets/imagenes/segep/seleccionar_aprendices.png){: .clickable-image}
 
 ### **Escriba la observación correspondiente:**
 
@@ -98,11 +96,9 @@ El sistema mostrará una tabla con los aprendices encontrados que incluye las si
 - Digite sus observaciones detalladas sobre el acompañamiento realizado.
 - Sea claro, específico y objetivo en sus observaciones.
 
-![Campo de observaciones](../../assets/imagenes/segep/observaciones_acompanamiento.png){: .clickable-image}
+![Campo de observaciones](site:assets/imagenes/segep/observaciones_acompanamiento.png){: .clickable-image}
 
 ## 6️⃣ **Guardar el acompañamiento**
 
-Una vez completados todos los campos requeridos del formulario, haga clic en el botón azul ![guardar](../../assets/imagenes/segep/iconos/guarda.png){:.inline-img} ubicado en la parte inferior del formulario.
-
-![Botón Guardar acompañamiento](../../assets/imagenes/segep/guardar_acompanamiento.png){: .clickable-image}
-
+Una vez completados todos los campos requeridos del formulario, haga clic en el botón azul ![guardar](site:assets/imagenes/segep/iconos/guarda.png){:.inline-img} ubicado en la parte inferior del formulario.
+![Botón Guardar acompañamiento](site:assets/imagenes/segep/guardar_acompanamiento.png){: .clickable-image}

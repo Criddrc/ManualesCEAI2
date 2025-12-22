@@ -6,7 +6,7 @@ El módulo de Revisión de F023 permite a los instructores gestionar y evaluar l
 
 En el menú lateral izquierdo, dentro de la sección **F023**, haga clic en la opción **Revisar F023**.
 
-![Opción Revisar F023](../../assets/imagenes/segep/revisar_F023.png){: .clickable-image}
+![Opción Revisar F023](site:assets/imagenes/segep/revisar_F023.png){: .clickable-image}
 
 El sistema cargará la interfaz "F023" con el encabezado **Buscar Aprendiz** y mostrará los filtros de búsqueda disponibles.
 
@@ -27,9 +27,9 @@ Complete uno o varios campos según sus necesidades de búsqueda:
     * **Evaluación Final:** Evaluación final de la etapa productiva
 - **Estado F023:** Despliegue el menú y seleccione el estado del formato **(PENDIENTE, ENTREGADO, APROBADO y RECHAZADO)**
 
-![Filtros de búsqueda F023](../../assets/imagenes/segep/búsqueda_F023.png){: .clickable-image}
+![Filtros de búsqueda F023](site:assets/imagenes/segep/búsqueda_F023.png){: .clickable-image}
 
-Una vez definidos los criterios de búsqueda Haga clic en el botón azul  ![buscar](../../assets/imagenes/segep/iconos/buscarP.png){:.inline-img} ubicado a la derecha de los campos de filtro.
+Una vez definidos los criterios de búsqueda Haga clic en el botón azul  ![buscar](site:assets/imagenes/segep/iconos/buscarP.png){:.inline-img} ubicado a la derecha de los campos de filtro.
 
 ## 3️⃣ **Revisar el listado de formularios F023**
 
@@ -49,7 +49,7 @@ El sistema desplegará una tabla detallada con la información de los formulario
     * **Instructor:** Espacio para sus observaciones y retroalimentación
 - **Firmar:** Botón amarillo **Firmar F023** para firmar digitalmente el documento.
 
-![Listado de F023](../../assets/imagenes/segep/listado_F023.png){: .clickable-image}
+![Listado de F023](site:assets/imagenes/segep/listado_F023.png){: .clickable-image}
 
 ## 4️⃣ **Descargar y revisar el formulario F023**
 
@@ -67,7 +67,7 @@ Para garantizar que toda la información evaluada se almacene correctamente en e
 
 - Revise que todos los campos requeridos estén completos.
 - Desplácese hasta la parte inferior de la pantalla.
-- Haga clic en el botón azul ![guarda](../../assets/imagenes/segep/iconos/guarda.png){:.inline-img} ubicado en la esquina inferior izquierda.
+- Haga clic en el botón azul ![guarda](site:assets/imagenes/segep/iconos/guarda.png){:.inline-img} ubicado en la esquina inferior izquierda.
 - Espere el mensaje de confirmación indicando que los datos se guardaron exitosamente.
 
-![Guardar cambios F023](../../assets/imagenes/segep/guardar_F023.png){: .clickable-image}
+![Guardar cambios F023](site:assets/imagenes/segep/guardar_F023.png){: .clickable-image}
