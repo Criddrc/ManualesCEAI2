@@ -64,31 +64,58 @@ copyright: Copyright &copy; 2025 - SENA
 nav:
   - Inicio: index.html
   - SAF:
-    - Aprendiz:
-      #- Inicio de Sesión: SAF/aprendiz/inicio.md
-      # - Consultar Horario:
-      # - Horario por Curso: SAF/aprendiz/horario/horariosCurso.md
-      #  - Horario por Instructor: SAF/aprendiz/horario/horariosInstructor.md
-      # - Horario por Ambiente: SAF/aprendiz/horario/horariosAmbiente.md
-      #  - Horario por Curso Complementario: SAF/aprendiz/horario/horariosComplementario.md
+    - Inicio de Sesión: SAF/index.md 
+    - Aprendiz:      
+      - Consultar Horario:
+        - Horario por Curso: SAF/aprendiz/horario/horariosCurso.md
+        - Horario por Instructor: SAF/aprendiz/horario/horariosInstructor.md
+        - Horario por Ambiente: SAF/aprendiz/horario/horariosAmbiente.md
+        - Horario por Curso Complementario: SAF/aprendiz/horario/horariosComplementario.md
       - Gestión de Novedades:
         - Retiro Voluntario: SAF/aprendiz/gestionNovedades/retiro.md
         - Aplazamiento: SAF/aprendiz/gestionNovedades/aplazamiento.md
         - Traslado de Centro: SAF/aprendiz/gestionNovedades/trasladoCentro.md
         - Traslado de Jornada: SAF/aprendiz/gestionNovedades/trasladoJornada.md
         - Traslado de Programa: SAF/aprendiz/gestionNovedades/trasladoPrograma.md
-    - Novedades:
-      - Deserción: SAF/desercion.md
-      - Cargar Recurso: SAF/cargarrecurso.md
-      - Cargar evidencias Deserción: SAF/cargarevidenciadesercionaprendiz.md
+      - Deserción:
+        - Cargar Evidencias Deserción: SAF/aprendiz/desercion/cargarevidenciaAprendiz.md
+    - Instructor:
+      - Deserción: SAF/instructor/instructordesercion.md
+      - Plan de Mejoramiento:
+        - Crear Plan: SAF/instructor/crearplan.md
+        - Crear actividades: SAF/instructor/crearactividadesplan.md
+        - Asociar aprendices: SAF/instructor/asociaraprendicesplan.md
+        - Calificar plan: SAF/instructor/calificarplan.md
+        - Culminar plan: SAF/instructor/culminarplan.md
+    - Apoyo Coordinación:
+      - Formación: SAF/apoyo_coordinacion/formacion.md
+      - Gestión de Novedades: SAF/apoyo_coordinacion/gestionNovedades.md
+      - Deserción:
+        - Consultar Novedad: SAF/apoyo_coordinacion/consultarnovedad.md
+        - Aceptar o Rechazar Novedad: SAF/apoyo_coordinacion/aceptarrechazar.md
+        - Cargar Recurso: SAF/apoyo_coordinacion/cargarrecurso.md 
+        - Notificación al aprendiz: SAF/apoyo_coordinacion/notificacionaprendiz.md
+        - Completar información de la novedad: SAF/apoyo_coordinacion/completarnovedad.md
+    - Coordinador Académico:
+      - Deserción:
+        - Aprobar Novedad: SAF/coordinador_academico/aprobarnovedadCA.md
+        - Revisar Soportes de Incumplimiento: SAF/coordinador_academico/revisarsoporte.md
+    - Coordinador de Formación:
+      - Deserción:
+        - Aprobar Novedad: SAF/coordinador_formacion/aprobarnovedadCF.md
+
+    #- Novedades:
+      #- Deserción: SAF/desercion.md
+      #- Cargar Recurso: SAF/cargarrecurso.md
+      #- Cargar evidencias Deserción: SAF/cargarevidenciadesercionaprendiz.md
       # - Diana: SAF/hola diana.md
       # - Diana 2: SAF/hola diana copy.md
-    - Plan de Mejoramiento:
-      - Crear Plan: SAF/crearplan.md
-      - Crear actividades: SAF/crearactividadesplan.md
-      - Asociar aprendices: SAF/asociaraprendicesplan.md
-      - Calificar plan: SAF/calificarplan.md
-      - Culminar plan: SAF/culminarplan.md
+    #- Plan de Mejoramiento:
+      #- Crear Plan: SAF/crearplan.md
+      #- Crear actividades: SAF/crearactividadesplan.md
+      #- Asociar aprendices: SAF/asociaraprendicesplan.md
+      #- Calificar plan: SAF/calificarplan.md
+      #- Culminar plan: SAF/culminarplan.md
   - SEGEP:
 
     - Inicio: SEGEP/index.md 
