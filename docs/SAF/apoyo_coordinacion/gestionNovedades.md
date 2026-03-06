@@ -5,7 +5,6 @@ La gestión de **Novedades de Aprendices** permite al rol de **Apoyo Coordinaci�
 ## 1️⃣ **Acceder al módulo de Gestión de Novedades**
 
  - Asegúrese de haber iniciado sesión en el sistema SAF-CEAI con sus credenciales de **Apoyo Coordinación**.
-
  - Una vez dentro del sistema, será dirigido a la **Página Principal** del SAF-CEAI. Al ingresar, el sistema mostrará automáticamente un panel con el resumen de **Novedades Pendientes** agrupadas por tipo. Revise la información y haga clic en **Cerrar** para continuar.
 
 ![Panel Novedades Pendientes](site:assets/imagenes/saf/gestionNovedades/panelNovedadesPendientes.png){: .clickable-image}

@@ -2,151 +2,325 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://appsceai.com/ManualesCEAI/GDC/inicio/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/GDC/inicio/"/>
     </url>
     <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/"/>
+    </url>
+    <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/asociaraprendicesplan/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/asociaraprendicesplan/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/calificarplan/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/calificarplan/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/cargarevidenciadesercionaprendiz/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/cargarevidenciadesercionaprendiz/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/cargarrecurso/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/cargarrecurso/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/crearactividadesplan/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/crearactividadesplan/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/crearplan/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/crearplan/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/culminarplan/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/culminarplan/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/desercion/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/desercion/"/>
     </url>
     <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/aceptarrechazar/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/aceptarrechazar/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/cargarrecurso/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/cargarrecurso/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/completarnovedad/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/completarnovedad/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/consultarnovedad/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/consultarnovedad/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/formacion/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/formacion/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/gestionNovedades/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/gestionNovedades/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/notificacionaprendiz/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/apoyo_coordinacion/notificacionaprendiz/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/aprendiz/desercion/cargarevidenciaAprendiz/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/aprendiz/desercion/cargarevidenciaAprendiz/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/aplazamiento/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/aplazamiento/"/>
+    </url>
+    <url>
         <loc>https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/retiro/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/retiro/"/>
     </url>
     <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/trasladoCentro/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/trasladoCentro/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/trasladoJornada/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/trasladoJornada/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/trasladoPrograma/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/aprendiz/gestionNovedades/trasladoPrograma/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/aprendiz/horario/horariosAmbiente/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/aprendiz/horario/horariosAmbiente/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/aprendiz/horario/horariosComplementario/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/aprendiz/horario/horariosComplementario/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/aprendiz/horario/horariosCurso/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/aprendiz/horario/horariosCurso/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/aprendiz/horario/horariosInstructor/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/aprendiz/horario/horariosInstructor/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/coordinador_academico/aprobarnovedadCA/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/coordinador_academico/aprobarnovedadCA/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/coordinador_academico/horarioCursoComplementario/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/coordinador_academico/horarioCursoComplementario/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/coordinador_academico/registrarCursoComplementario/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/coordinador_academico/registrarCursoComplementario/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/coordinador_academico/revisarsoporte/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/coordinador_academico/revisarsoporte/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/coordinador_formacion/aprobarnovedadCF/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/coordinador_formacion/aprobarnovedadCF/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/instructor/asociaraprendicesplan/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/instructor/asociaraprendicesplan/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/instructor/calificarplan/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/instructor/calificarplan/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/instructor/crearactividadesplan/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/instructor/crearactividadesplan/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/instructor/crearplan/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/instructor/crearplan/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/instructor/crearqueja/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/instructor/crearqueja/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/instructor/culminarplan/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/instructor/culminarplan/"/>
+    </url>
+    <url>
+        <loc>https://appsceai.com/ManualesCEAI/SAF/instructor/instructordesercion/</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SAF/instructor/instructordesercion/"/>
+    </url>
+    <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/bitacora/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/bitacora/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/contrase%C3%B1a/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/contrase%C3%B1a/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/datos/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/datos/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/ente_coformado/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/ente_coformado/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/inicio/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/inicio/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/pqr/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/pqr/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/registro/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/registro/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/revisionF023/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/aprendiz/revisionF023/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/instructor/acompa%C3%B1amiento/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/instructor/acompa%C3%B1amiento/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/instructor/bitacora_instructor/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/instructor/bitacora_instructor/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/instructor/cargar_F023_instructor/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/instructor/cargar_F023_instructor/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/instructor/inicio_instructor/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/instructor/inicio_instructor/"/>
     </url>
     <url>
         <loc>https://appsceai.com/ManualesCEAI/SEGEP/instructor/reportes/</loc>
-        <lastmod>2025-12-15</lastmod>
+        <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://appsceai.com/ManualesCEAI/SEGEP/instructor/reportes/"/>
     </url>

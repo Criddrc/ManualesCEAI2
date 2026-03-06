@@ -79,3 +79,24 @@ img[alt*="+registrarNovedad"] {
   max-height: 1.4em !important;
   margin: 0 0.2em;
 }
+
+/* Estilos para imágenes clickeables (capturas de pantalla) */
+img.clickable-image {
+  max-width: 100% !important;
+  height: auto !important;
+  margin: 1.5em auto !important;
+  display: block !important;
+  max-height: none !important;
+  width: auto !important;
+}
+
+/* Especificidad en párrafos para imágenes clickeables */
+p > img.clickable-image,
+li > img.clickable-image,
+span > img.clickable-image {
+  height: auto !important;
+  max-height: none !important;
+  width: auto !important;
+  max-width: 100% !important;
+  display: block !important;
+}

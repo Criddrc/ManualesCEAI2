@@ -85,4 +85,5 @@ El tercer ícono corresponde al **Listado de Grupo**. Al hacer clic, el sistema 
 
 ![Ícono Listado de Grupo](site:assets/imagenes/saf/formacion/opcionListadoGrupo.png){: .clickable-image}
 
-**Nota importante:** Un curso con estado **"En ejecución"** y tipo **"Cerrado"** indica que el grupo ya tiene su cupo definido y se encuentra en proceso de formación activa. Es importante seleccionar correctamente los filtros antes de consultar para obtener resultados precisos y evitar confusiones entre fichas con nombres de programa similares.
+## 6️⃣  **Nota importante** 
+Un curso con estado **"En ejecución"** y tipo **"Cerrado"** indica que el grupo ya tiene su cupo definido y se encuentra en proceso de formación activa. Es importante seleccionar correctamente los filtros antes de consultar para obtener resultados precisos y evitar confusiones entre fichas con nombres de programa similares.

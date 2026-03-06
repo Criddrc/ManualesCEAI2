@@ -131,4 +131,6 @@ Para cerrar el panel de detalles, haga clic en el botón ![Cerrar Panel](site:as
 
 ![Vista Horario con Detalles](site:assets/imagenes/saf/horarios/vistaHorarioDetallesComplementario.png){: .clickable-image}
 
-**Nota importante:** Los cursos complementarios son formaciones adicionales que complementan el programa principal de los aprendices, permitiéndoles desarrollar competencias transversales o especializadas en áreas específicas. La consulta de estos horarios facilita la coordinación entre la formación titulada y la formación complementaria.
+## 7️⃣ **Nota importante** 
+
+Los cursos complementarios son formaciones adicionales que complementan el programa principal de los aprendices, permitiéndoles desarrollar competencias transversales o especializadas en áreas específicas. La consulta de estos horarios facilita la coordinación entre la formación titulada y la formación complementaria.

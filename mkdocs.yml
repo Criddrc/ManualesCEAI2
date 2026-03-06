@@ -87,6 +87,9 @@ nav:
         - Asociar aprendices: SAF/instructor/asociaraprendicesplan.md
         - Calificar plan: SAF/instructor/calificarplan.md
         - Culminar plan: SAF/instructor/culminarplan.md
+      - Quejas de Aprendices: 
+        - Crear Queja: SAF/instructor/crearqueja.md
+        - Consultar Queja: SAF/instructor/consultarqueja.md
     - Apoyo Coordinación:
       - Formación: SAF/apoyo_coordinacion/formacion.md
       - Gestión de Novedades: SAF/apoyo_coordinacion/gestionNovedades.md
@@ -100,6 +103,9 @@ nav:
       - Deserción:
         - Aprobar Novedad: SAF/coordinador_academico/aprobarnovedadCA.md
         - Revisar Soportes de Incumplimiento: SAF/coordinador_academico/revisarsoporte.md
+      - Curso Complementario:
+        - Crear Curso Complementario: SAF/coordinador_academico/registrarCursoComplementario.md
+        - Crear Horario Curso Complementario: SAF/coordinador_academico/horarioCursoComplementario.md
     - Coordinador de Formación:
       - Deserción:
         - Aprobar Novedad: SAF/coordinador_formacion/aprobarnovedadCF.md

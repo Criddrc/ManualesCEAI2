@@ -1,4 +1,4 @@
-## 3️⃣ ACEPTAR O RECHAZAR NOVEDAD
+# 📘 ACEPTAR O RECHAZAR NOVEDAD
 
 El apoyo a coordinación selecciona en el campo **"Aprobar Solicitud"** la opción **Aprobar** o **Rechazar** según el protocolo. Para completar la acción debe hacer clic en el botón "Registrar". Si desea puede usar el campo "Observaciones" para completar la información.
 
