@@ -1,6 +1,6 @@
 # 📘 QUEJAS - REGISTRAR QUEJA DE APRENDIZ
 
-El registro de una queja de aprendiz es una tarea que realiza el rol de **Instructor** desde el módulo de Formación, como apoyo a la Coordinación en los procesos disciplinarios y académicos. A través de esta gestión se documenta formalmente el incumplimiento del reglamento de aprendices del SENA, garantizando que la queja quede correctamente registrada en el sistema SAF-CEAI.
+El registro de una queja de aprendiz es una tarea que realiza el rol de **Instructor** desde el módulo de Formación. A través de esta gestión se documenta formalmente el incumplimiento del reglamento de aprendices del SENA, garantizando que la queja quede correctamente registrada en el sistema SAF-CEAI.
 
 > **Referencia sobre el tipo de falta:** El sistema permite registrar dos tipos de falta según el reglamento de aprendices del SENA. La falta **Académica** corresponde a incumplimientos relacionados con resultados de aprendizaje no aprobados, inasistencias o entrega de evidencias. La falta **Disciplinaria** corresponde a comportamientos que infringen las normas de convivencia establecidas en el reglamento.
 
@@ -105,4 +105,4 @@ Haga clic en el botón ![Guarda Provisionalmente](site:assets/imagenes/saf/icono
 Haga clic en el botón ![Guarda Provisionalmente](site:assets/imagenes/saf/iconos/guardaProvisional.png){:.inline-img} si desea conservar el avance del formulario sin finalizarlo, permitiendo continuar con el diligenciamiento en otro momento. Haga clic en el botón ![Guardar](site:assets/imagenes/saf/iconos/guardar.png){:.inline-img} si el formulario está completo y desea registrar oficialmente la queja en el sistema SAF-CEAI.
 
 ## 6️⃣ **Nota importante:** 
-Asegúrese de haber completado todos los campos obligatorios y de haber trazado la firma antes de hacer clic en **Guardar**. Esta queja quedará registrada en el expediente del aprendiz y sustentará el proceso de seguimiento por parte de la Coordinación. El proceso está fundamentado en los artículos 7, 9, 10, 22 y 23 del Reglamento de Aprendices del SENA.
+Asegúrese de haber completado todos los campos obligatorios y de haber trazado la firma antes de hacer clic en **Guardar**. Esta queja quedará registrada en el expediente del aprendiz y sustentará el proceso de seguimiento por parte del instructor.
